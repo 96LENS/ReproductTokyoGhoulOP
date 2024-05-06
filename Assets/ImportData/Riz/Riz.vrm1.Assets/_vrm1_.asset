@@ -15,7 +15,7 @@ MonoBehaviour:
   m_prefab: {fileID: -1728013695380148634, guid: 3d4eead32f7ba124d8669b3a3b55e6b8,
     type: 3}
   Meta:
-    Name: Riz_0x
+    Name: Riz
     Version: 
     Authors:
     - 96LenS
@@ -23,8 +23,7 @@ MonoBehaviour:
     ContactInformation: 
     References: []
     ThirdPartyLicenses: 
-    Thumbnail: {fileID: 2178681595258467215, guid: 3d4eead32f7ba124d8669b3a3b55e6b8,
-      type: 3}
+    Thumbnail: {fileID: 0}
     AvatarPermission: 0
     ViolentUsage: 0
     SexualUsage: 0
